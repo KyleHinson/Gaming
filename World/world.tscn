@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://d2wfo2xvkyanl"]
+
+[ext_resource type="PackedScene" uid="uid://dqdpkrdjcr4ku" path="res://Player/lkh.tscn" id="1_s7ugh"]
+
+[node name="world" type="Node2D"]
+
+[node name="LKH" parent="." instance=ExtResource("1_s7ugh")]
+position = Vector2(120, 65)
