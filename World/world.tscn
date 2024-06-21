@@ -1,8 +1,15 @@
-[gd_scene load_steps=2 format=3 uid="uid://d2wfo2xvkyanl"]
+[gd_scene load_steps=3 format=3 uid="uid://d2wfo2xvkyanl"]
 
 [ext_resource type="PackedScene" uid="uid://dqdpkrdjcr4ku" path="res://Player/lkh.tscn" id="1_s7ugh"]
+
+[sub_resource type="TileSet" id="TileSet_ijh4t"]
 
 [node name="world" type="Node2D"]
 
 [node name="LKH" parent="." instance=ExtResource("1_s7ugh")]
 position = Vector2(120, 65)
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource("TileSet_ijh4t")
+collision_animatable = true
+format = 2

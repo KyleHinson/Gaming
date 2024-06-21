@@ -1,8 +1,1650 @@
 ea4bc82a6ad023ab7ee23ee620429895
 ::res://::1718979484
 icon.svg::CompressedTexture2D::2170910787280638694::1718979299::1718979299::1::::<><>::
-::res://art/::1718979299
-::res://art/Temperary/::1718979299
+::res://art/::1718984813
+::res://art/Ninja Adventure - Asset Pack/::1713544245
+Example 5 ( Old Version).png::CompressedTexture2D::2502483695936109423::1569096251::1718984820::1::::<><>::
+LICENSE.txt::TextFile::-1::1614098298::0::1::::<><>::
+MusicCover.png::CompressedTexture2D::4391993924063797954::1614259672::1718984820::1::::<><>::
+Palette.png::CompressedTexture2D::7189702089932386880::1614425119::1718984820::1::::<><>::
+preview-part-1.png::CompressedTexture2D::8189136988792628012::1614099712::1718984820::1::::<><>::
+preview-part-2.png::CompressedTexture2D::5668835669106010444::1614099970::1718984820::1::::<><>::
+README.md::TextFile::-1::1619706063::0::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/::1713544244
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/::1713544242
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Cat/::1713544242
+Faceset.png::CompressedTexture2D::452801772731176299::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5891820286859600117::1616073559::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Chicken/::1713544242
+FacesetBlack.png::CompressedTexture2D::7241159113863713690::1659275471::1718984820::1::::<><>::
+FacesetBrown.png::CompressedTexture2D::7244536984202288309::1659275577::1718984820::1::::<><>::
+FacesetCute.png::CompressedTexture2D::1287283803697475587::1659275690::1718984820::1::::<><>::
+FacesetWhite.png::CompressedTexture2D::868910904380250632::1659275522::1718984820::1::::<><>::
+SpriteSheetBlack.png::CompressedTexture2D::5623342935459463276::1659274949::1718984820::1::::<><>::
+SpriteSheetBrown.png::CompressedTexture2D::617410290973765455::1659274978::1718984820::1::::<><>::
+SpriteSheetCute.png::CompressedTexture2D::7959996175450714582::1659275040::1718984820::1::::<><>::
+SpriteSheetWhite.png::CompressedTexture2D::5906469588515381134::1659274922::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Cow/::1713544242
+Faceset.png::CompressedTexture2D::7922376745796164727::1659277541::1718984820::1::::<><>::
+SpriteSheetWhite.png::CompressedTexture2D::2211566154957397912::1659276936::1718984820::1::::<><>::
+SpriteSheetWhiteSide.png::CompressedTexture2D::2452901851380023645::1659276922::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Cub/::1713544242
+Faceset2.png::CompressedTexture2D::1726322240238690749::1708525298::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::2885591776657597000::1693384479::1718984820::1::::<><>::
+SpriteSheet2.png::CompressedTexture2D::8153059523921204377::1708525345::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7098111472650231401::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Dog/::1713544242
+Faceset.png::CompressedTexture2D::6932939582430201847::1614163630::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8637563792821645595::1614188524::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Dog2/::1713544242
+Faceset.png::CompressedTexture2D::2244408168480117732::1616073257::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8902314335458064120::1616073570::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Fish/::1713544242
+FacesetRed.png::CompressedTexture2D::4507152001340085373::1693384479::1718984820::1::::<><>::
+FacesetWhite.png::CompressedTexture2D::4318818870403771829::1693384479::1718984820::1::::<><>::
+FacesetYellow.png::CompressedTexture2D::8225902482812269846::1693384479::1718984820::1::::<><>::
+SpriteSheetRed.png::CompressedTexture2D::4529216682342101355::1659278855::1718984820::1::::<><>::
+SpriteSheetWhite.png::CompressedTexture2D::5503282416381490981::1659278736::1718984820::1::::<><>::
+SpriteSheetYellow.png::CompressedTexture2D::671733939957494934::1659278785::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Frog/::1713544242
+Faceset.png::CompressedTexture2D::3006956961387743610::1619709883::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7311206638902568271::1619709879::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Horse/::1713544242
+FacesetBlack.png::CompressedTexture2D::3933070413868032284::1659278288::1718984820::1::::<><>::
+FacesetBrown.png::CompressedTexture2D::4123791857723522694::1659278232::1718984820::1::::<><>::
+SpriteSheetBlack.png::CompressedTexture2D::7302648992193891121::1659277685::1718984820::1::::<><>::
+SpriteSheetBlackSide.png::CompressedTexture2D::7202709371529267951::1659277758::1718984820::1::::<><>::
+SpriteSheetBrown.png::CompressedTexture2D::3296699404515213186::1659277638::1718984820::1::::<><>::
+SpriteSheetBrownSide.png::CompressedTexture2D::7568363043276673373::1659277732::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Lion/::1713544242
+FacesetOrange.png::CompressedTexture2D::8304544745004837294::1693384479::1718984820::1::::<><>::
+FacesetRed.png::CompressedTexture2D::2247878735748300388::1693384479::1718984820::1::::<><>::
+FacesetWhite.png::CompressedTexture2D::212333213181193175::1693384479::1718984820::1::::<><>::
+FacesetYellow.png::CompressedTexture2D::4914615693570267951::1693384479::1718984820::1::::<><>::
+SpriteSheetOrange.png::CompressedTexture2D::6300587238573378171::1693384479::1718984820::1::::<><>::
+SpriteSheetOrangeSide.png::CompressedTexture2D::1649755690677316425::1693384479::1718984820::1::::<><>::
+SpriteSheetRed.png::CompressedTexture2D::6746557783989624782::1693384479::1718984820::1::::<><>::
+SpriteSheetRedSide.png::CompressedTexture2D::6291259121118146770::1693384479::1718984820::1::::<><>::
+SpriteSheetWhite.png::CompressedTexture2D::2351563677871244020::1693384479::1718984820::1::::<><>::
+SpriteSheetWhiteSide.png::CompressedTexture2D::1848519194044218733::1693384479::1718984820::1::::<><>::
+SpriteSheetYellow.png::CompressedTexture2D::4015618399098439321::1693384479::1718984820::1::::<><>::
+SpriteSheetYellowSide.png::CompressedTexture2D::3495655927136953578::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Monkey/::1713544242
+FacesetBlack.png::CompressedTexture2D::6386483908321744515::1693390550::1718984820::1::::<><>::
+FacesetBrown.png::CompressedTexture2D::5863858923758429916::1693390542::1718984820::1::::<><>::
+FacesetGrey.png::CompressedTexture2D::1971654714442375573::1713454370::1718984820::1::::<><>::
+SpriteSheetBlack.png::CompressedTexture2D::23817325722439311::1693384479::1718984820::1::::<><>::
+SpriteSheetBrown.png::CompressedTexture2D::5452006640643732716::1693384479::1718984820::1::::<><>::
+SpriteSheetGrey.png::CompressedTexture2D::670397339622715639::1708525110::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Pig/::1713544242
+FacesetBlack.png::CompressedTexture2D::6764034419464280590::1659276425::1718984820::1::::<><>::
+FacesetPink.png::CompressedTexture2D::585407042142098560::1659276330::1718984820::1::::<><>::
+FacesetRed.png::CompressedTexture2D::1442822748323922776::1659276490::1718984820::1::::<><>::
+SpriteSheetBlack.png::CompressedTexture2D::4436494406068065391::1659276087::1718984820::1::::<><>::
+SpriteSheetPink.png::CompressedTexture2D::140518315610649710::1659276046::1718984820::1::::<><>::
+SpriteSheetRed.png::CompressedTexture2D::4477965286238863515::1659276147::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Animals/Racoon/::1713544242
+Faceset.png::CompressedTexture2D::4921437372585692800::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2801028202498462488::1616074026::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/::1713544242
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/DemonCyclop/::1713544242
+Faceset.png::CompressedTexture2D::2217176787341091715::1619607635::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::6469094074553347808::1619967416::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5618416869688027836::1619887274::1718984820::1::::<><>::
+Sprite.png::CompressedTexture2D::8511703727454943411::1619607809::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4103560191722965568::1619887282::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/DemonCyclop2/::1713544242
+Faceset.png::CompressedTexture2D::2509534740061866630::1619607635::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::473677031351094801::1619967894::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2621919313815049805::1619967985::1718984820::1::::<><>::
+Sprite.png::CompressedTexture2D::7012580076613089830::1619607797::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7846723310799990757::1619968060::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantBlueSamurai/::1713544242
+AttackLeft.png::CompressedTexture2D::1207466582369768656::1708593101::1718984820::1::::<><>::
+AttackRight.png::CompressedTexture2D::6973846943269165033::1708593273::1718984820::1::::<><>::
+ChargeLeft.png::CompressedTexture2D::5847419704910996681::1708593141::1718984820::1::::<><>::
+ChargeRight.png::CompressedTexture2D::8943702701239004652::1708593289::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::5649710427377569397::1708593006::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::1666938002695985465::1708593359::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1163266682385515258::1708593381::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2545342017505998194::1713453013::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantFlam/::1713544242
+Faceset.png::CompressedTexture2D::2933166054867092588::1619607722::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::5382753942192722377::1619714911::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3825635385609789395::1619714747::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantFrog/::1713544242
+Attack.png::CompressedTexture2D::56259555574583033::1619713578::1718984820::1::::<><>::
+Charge.png::CompressedTexture2D::918364552068465076::1619713563::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::1120294520067308477::1619710397::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::3931410162599190154::1619712534::1718984820::1::::<><>::
+Idle40x40.png::CompressedTexture2D::5245628555045232107::1619710811::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::1132961768033536737::1619711886::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantFrog2/::1713544242
+Attack.png::CompressedTexture2D::7115619874456339201::1619713857::1718984820::1::::<><>::
+Charge.png::CompressedTexture2D::2705412960094807621::1619713788::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::1421833541307126381::1619710464::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::3418950663682985168::1619714418::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2099979306863967805::1619710931::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5675917140310354126::1619712005::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantRacoon/::1713544242
+Attack.png::CompressedTexture2D::670207859531668679::1619718350::1718984820::1::::<><>::
+charge.png::CompressedTexture2D::7123341766810407237::1619718336::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::2643581077684796134::1619607635::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2627328282261133597::1619890018::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4844641744326162859::1619890901::1718984820::1::::<><>::
+Sprite.png::CompressedTexture2D::2795447022128010679::1619607749::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantRacoonGold/::1713544242
+Attack.png::CompressedTexture2D::4647265272112206529::1619718460::1718984820::1::::<><>::
+Charge.png::CompressedTexture2D::9203046731186938624::1619718448::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::1182818733800847060::1619607635::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4951185062178672320::1619890038::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4243138298138267268::1619890884::1718984820::1::::<><>::
+Sprite.png::CompressedTexture2D::2463164199163247480::1619607761::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantRedSamurai/::1713544242
+AttackLeft.png::CompressedTexture2D::3629206534890653704::1708591256::1718984820::1::::<><>::
+AttackRight.png::CompressedTexture2D::86546842463105::1708591417::1718984820::1::::<><>::
+ChargeLeft.png::CompressedTexture2D::1643917239655443177::1708591202::1718984820::1::::<><>::
+ChargeRight.png::CompressedTexture2D::7497549874101335594::1708591394::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::2162350012237736112::1708591113::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::1420538612852118771::1708591556::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6669482960519207759::1708591599::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5790789539392060054::1713452972::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/GiantSpirit/::1713544242
+Faceset.png::CompressedTexture2D::6445906337230271584::1619607635::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::6190474355948339696::1619714609::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8538841566971025338::1619714801::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/TenguBlue/::1713544242
+Attack.png::CompressedTexture2D::5177552837992937887::1713452357::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::91042692239609179::1708612145::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::7990148502365124335::1708611795::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4221170919647332219::1708611772::1718984820::1::::<><>::
+Trans.png::CompressedTexture2D::4140209513433404833::1708611709::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5069131333433595635::1708612212::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Boss/TenguRed/::1713544242
+Attack.png::CompressedTexture2D::8839170095640923639::1713452121::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::6058485594655708842::1708612848::1718984820::1::::<><>::
+Hit.png::CompressedTexture2D::2875968521835773582::1708612725::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1389425844829711030::1708612700::1718984820::1::::<><>::
+Trans.png::CompressedTexture2D::3132837056510358100::1708612628::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2289309824397818070::1708612762::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/::1713544244
+AllPreview2.png::CompressedTexture2D::8193494749260653165::1616260141::1718984820::1::::<><>::
+AllPreview.png::CompressedTexture2D::7618052464080504760::1616260167::1718984820::1::::<><>::
+Shadow.png::CompressedTexture2D::1686759464556986590::1614175565::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Boy/::1713544242
+Faceset.png::CompressedTexture2D::5171187317483670609::1614259489::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6238660545137889342::1614162593::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Boy/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::4467467260192976619::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6143160037060144037::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5838885259383884940::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8336923071590394734::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::6146016980443193829::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6077353286568053633::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::8413031642687157572::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5386429702852385840::1616262016::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/CamouflageGreen/::1713544242
+Faceset.png::CompressedTexture2D::6804145534203671171::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::629153269299357833::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/CamouflageGreen/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::5791524803592746869::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6982785215732514001::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4670617163222143233::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6399047021369798029::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7921375901829587989::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6476200007420800557::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2139159895084436944::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::6608754240059956157::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/CamouflageRed/::1713544242
+Faceset.png::CompressedTexture2D::324123045409297538::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4787024218250981056::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/CamouflageRed/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::563568327529994640::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::9090783040790676329::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2372010738110923912::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8579949833187833492::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2568197733294667674::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::5120995932456631849::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4466154977852625618::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8518637750239319378::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Cavegirl/::1713544242
+Faceset.png::CompressedTexture2D::8681293668200608928::1619968970::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7038217488641875441::1619968954::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Cavegirl/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::5869736261349081754::1619969086::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6201531436546759342::1619969096::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5226992920242509902::1619969105::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1479712640991617867::1619969114::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2082185513520903000::1619969123::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3735862787670159039::1619969136::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1453331951737581796::1619969144::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::82035152237927323::1619969152::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Cavegirl2/::1713544242
+Faceset.png::CompressedTexture2D::4788808615258647638::1619969027::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2271234010562469285::1619968994::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Cavegirl2/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::1038448484173089373::1619969176::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::406039919126032508::1619969183::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4758292628764667290::1619969191::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8428724860614167823::1619969200::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5947106895441177830::1619969210::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6101631411020047563::1619969221::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7093169098847893941::1619969229::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::6879848079409731960::1619969241::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Caveman/::1713544242
+Faceset.png::CompressedTexture2D::1663055138091655775::1619968652::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8884521318182255816::1619968632::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Caveman/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::3076085342689012621::1619969263::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::265008958802811132::1619969271::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5302011397833251127::1619969278::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8289881264333328164::1619969284::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7388879485800441871::1619969291::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7549203773499567014::1619969303::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3195059511247964211::1619969321::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::1709449674556396570::1619969331::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Caveman2/::1713544242
+Faceset.png::CompressedTexture2D::3359548055600592143::1619968882::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3544155194376452414::1619968831::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Caveman2/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::5608905013893525316::1619969352::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6111623642152139795::1619969360::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6780425086124459775::1619969367::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::4752878736972077674::1619969374::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7710344640439156524::1619969382::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8828973409333104724::1619969395::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6402380409779584303::1619969409::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::510790781445080337::1619969416::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Child/::1713544242
+Faceset.png::CompressedTexture2D::6651668390060556577::1614259539::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5734208182245476911::1614164024::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/DemonGreen/::1713544242
+Faceset.png::CompressedTexture2D::8270093484412641056::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3850240970112091220::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/DemonGreen/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::268448691836185834::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::844757833970374387::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3698831475675299876::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::4514541595481670831::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7974600951870076824::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1271930212346495737::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::8267802706016450952::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8628836504010718845::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/DemonRed/::1713544242
+Faceset.png::CompressedTexture2D::8743164924663008067::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3433130428928937800::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/DemonRed/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::7270011176546171203::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4858912706261237926::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4201173211154602331::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::429712897066386139::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5808958057618590425::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3997672501048487268::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::8946970705200386041::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2191123830470741425::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/EggBoy/::1713544242
+Faceset.png::CompressedTexture2D::739661858956842005::1619968577::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8694776422917597496::1619968605::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/EggBoy/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::967577771736115697::1619969521::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7715854691026196546::1619969531::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3339419714879879819::1619969539::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::725799215072781336::1619969551::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::6925432079084069386::1619969564::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6108162264792362508::1619969573::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3918423461281913536::1619969584::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4179024166371641932::1619969592::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/EggGirl/::1713544242
+Faceset.png::CompressedTexture2D::8190255068926882411::1619968452::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7998830488249330532::1619968432::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/EggGirl/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::6497823546406014520::1619969430::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7757258471930842278::1619969438::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2418070002567710272::1619969450::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2263829769319360496::1619969462::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3332475943216464608::1619969473::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1640252816185414486::1619969485::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::468473413835028355::1619969491::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2125448547068791133::1619969499::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Eskimo/::1713544242
+Faceset.png::CompressedTexture2D::5379830781368553082::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5121601701050153935::1614163335::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Eskimo/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::5548870835740265595::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::542376142932971478::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6234730763491650707::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7737768356167831364::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::1018079227349782823::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2678176046110102847::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7897367249033329463::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7883852833683170354::1616262016::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/FighterRed/::1713544242
+Faceset.png::CompressedTexture2D::1126880307438559894::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4114452549693754628::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/FighterRed/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::5674692158772769714::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6632842034389944129::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4783298021727799041::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::960354964935397361::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::8547547936264257640::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1731473364319577130::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4179772237283349908::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2004173488899145266::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/FighterWhite/::1713544242
+Faceset.png::CompressedTexture2D::6315025765804021884::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6646297409814196891::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/FighterWhite/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::616839090716005114::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4433912759879084655::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1130955488983670594::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::916120773048784055::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2569940033054566122::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2217376606789252787::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5310372740819154162::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2968355857374618888::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Flam/::1713544242
+Faceset.png::CompressedTexture2D::7948076347939411292::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1118594464470737484::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Flam/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::983937810474515743::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3152908640694920613::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2776833728885787741::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6095958242771381324::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2612713347136811755::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6472380959319200567::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6784055640861527194::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5230822619090254962::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/GladiatorBlue/::1713544242
+Faceset.png::CompressedTexture2D::5557443342443883670::1708617827::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1859890731406178535::1708617844::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/GladiatorBlue/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::292339658368444638::1708618065::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3176590300786520695::1708618102::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8387112863281104869::1708618124::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7981282571120110328::1708618144::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5725224894909578305::1708618153::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::964291586889967049::1708618161::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6933133791858590674::1708618171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2861257366922159762::1708618184::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Hunter/::1713544242
+Faceset.png::CompressedTexture2D::6434593503607907880::1708619366::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8590998862213045452::1708619369::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Hunter/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::6810691885439288005::1708619440::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::5598707170876723941::1708619433::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5422987973430744021::1708619422::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::3757131256064478034::1708619416::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::1527962173672472974::1708619406::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2608633330684505887::1708619399::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5463143171024957476::1708619392::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7407652661961147604::1708619384::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Inspector/::1713544242
+Faceset.png::CompressedTexture2D::3330575929979254790::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1413506474428200477::1614164431::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Inspector/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::8465882139793139550::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7618204570298258771::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1626059223461819118::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6128587774607254752::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::8400192289778070077::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7469098513940082418::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7746727762014685403::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2373146915292908566::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Knight/::1713544242
+Faceset.png::CompressedTexture2D::7467429306521163343::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7520589197964617498::1614163313::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Knight/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::100113636840636036::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3260249002036883286::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::666050179141616389::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2460769405044644176::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3570006929723543378::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3153316791988285676::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7231806505716460934::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3809568175501888716::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/KnightGold/::1713544242
+Faceset.png::CompressedTexture2D::5805717947742538741::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4928190141835713174::1614163359::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/KnightGold/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::4777483467076656844::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4399651185170960115::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1702107843755183819::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::4960708751180245941::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2517018081350748392::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3506249430565756694::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5822114064078441364::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8201216200487905897::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Lion/::1713544242
+Faceset.png::CompressedTexture2D::6152093574097755069::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2076862817897814286::1616073654::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Lion/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::2676311569916870630::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7000535826619880160::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::285841392455570785::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1062223830815330268::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::6108866255622036093::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::9100047019803209033::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4563966589699287373::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8226432109926211128::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/LionBoy/::1713544242
+Faceset.png::CompressedTexture2D::5912907683928041104::1708619468::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6194424604436008739::1708619492::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/LionBoy/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::2128758068028014056::1708620101::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4213472267848943147::1708620108::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::7580994575488922809::1708620115::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::4812489051262107973::1708620122::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::1397167586786836817::1708620128::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3077939402182382902::1708620075::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3615335197227341228::1708620085::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5156007721202033382::1708620093::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/LionOrange/::1713544242
+Faceset.png::CompressedTexture2D::7561278130846538487::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4682993998406067313::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/LionOrange/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::2341489992552655304::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::5758575149174120711::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8104017962615990216::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2224013120166276668::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3713502769536664803::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2959644822674823102::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6179464371653779534::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::621260917184308948::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/LionYellow/::1713544242
+Faceset.png::CompressedTexture2D::4438087759608969233::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::937545167015404842::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/LionYellow/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::1184684554151097033::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6971061365940334587::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::598339155412275564::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::713428980919897088::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2152113599779553412::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6049093356022647999::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6168081011181772465::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2777861998934735943::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/ManGreen/::1713544242
+Faceset1.png::CompressedTexture2D::8725069727362558023::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1234065090491780260::1616073613::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/ManGreen/SeparateAnim/::1713544242
+Attack.png::CompressedTexture2D::1139751904024252122::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::2021260704720858459::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::7374809800861733915::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2161276356777832874::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5400829763546134764::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::5048188035755437714::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1583349907246847472::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4674030398834089443::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/MaskFrog/::1713544242
+Dead14.png::CompressedTexture2D::8008743027218882225::1616262112::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::6120761387550088484::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1233112300455021077::1616073671::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/MaskFrog/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::5406848537061729120::1616262079::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1007787435188890333::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2402264334846708645::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5719033237502196137::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6467266328402336318::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1375203854356002409::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4643610229571394699::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Master/::1713544243
+Faceset.png::CompressedTexture2D::4810964738158907602::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4470230716217606952::1614162678::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Master/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::3710483640928864737::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3269804350175485360::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3440769008349860869::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7629068388974027938::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3298940538271913226::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::464142469861173703::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2292060121132125857::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2234332945949835542::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Monk/::1713544243
+Faceset.png::CompressedTexture2D::7742755394275083480::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7337484240104228586::1614162722::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Monk/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::7146343351846901209::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1462480508984477249::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::7684944975232965491::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8771461105635003564::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::315659659918454516::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7215027039656094764::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5844406637892584203::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4479103527789889638::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Monk2/::1713544243
+Faceset.png::CompressedTexture2D::7379804809161774764::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4862070399487802815::1614163434::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Monk2/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::4128626440824926701::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6613563560555910108::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6047989838617894102::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::786006369865437196::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::8513998558949692269::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::5915038817602341055::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4272345670538242854::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3096672641242339011::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/MonkeyBoxerBlue/::1713544243
+Faceset.png::CompressedTexture2D::1674359202463341299::1708619579::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3429489760146803371::1708619591::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/MonkeyBoxerBlue/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::6086564538380984103::1708620171::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7957167942728981097::1708620177::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::574466330574869053::1708620186::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1448679842988218205::1708620193::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7392746905142484845::1708620199::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6730820260494220725::1708620149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1595436152359391468::1708620156::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5046984988089990303::1708620164::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/MonkeyBoxerRed/::1713544243
+Faceset.png::CompressedTexture2D::7792238979575362657::1708619522::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3153386303747633477::1708619543::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/MonkeyBoxerRed/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::1982026976084189883::1708620259::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6421717356065876369::1708620271::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6990822168174870128::1708620279::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::5909042756340912788::1708620285::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4299959888400336556::1708620292::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::4067190208039257427::1708620235::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5868203104098632970::1708620245::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8375711716265255937::1708620251::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaBlue/::1713544243
+Faceset.png::CompressedTexture2D::7761246451387491338::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1044917663146452998::1614163404::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaBlue/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::8813348487762433364::1616261677::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::8890528230104121865::1616261703::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8245877440982283367::1616261655::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::47499437940185813::1616261720::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3847781018818707546::1616261693::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1419966241799878367::1616261730::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::8878733965179865698::1616261742::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7608664574743633179::1616262208::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaBlue2/::1713544243
+Faceset.png::CompressedTexture2D::3189956357953665539::1708618215::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8150892380387638883::1708618232::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaBlue2/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::3236737948513597143::1708618319::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7642536472059775773::1708618376::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::693540750358628512::1708618367::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7264239694265419798::1708618356::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4148383809806082894::1708618347::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1662902871969035220::1708618337::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2995966594426269924::1708618328::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3962804051701748620::1708618311::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaBomb/::1713544243
+Faceset.png::CompressedTexture2D::1939586885780958660::1708618452::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3984599383892673543::1708618442::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaBomb/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::8668338997200922081::1708618490::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::5147576000836730196::1708618529::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3369055815538682734::1708618522::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8008114424756200440::1708618515::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::8995813987210615114::1708618506::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1725471699482754182::1708618563::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::989670778914370012::1708618574::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3235397570431260158::1708618480::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaDark/::1713544243
+Faceset.png::CompressedTexture2D::9004782201153339843::1614259474::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4930796921046144239::1614163989::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaDark/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::5925254264834750476::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::2304733291853664423::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5848445434046591147::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2946591217603499948::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::8394729631630827759::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8555577250959175029::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5905899105917372631::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5532220449461600586::1616262016::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaEskimo/::1713544243
+Faceset.png::CompressedTexture2D::5631383097911826981::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6219874242362947225::1616073584::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaEskimo/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::2979340745716748504::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::8933632661588738051::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4578115364044481567::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8564286453888104406::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::8071672737246864636::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7241034560158547320::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1524754599338634123::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7664770440240943786::1616262016::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaGray/::1713544243
+Faceset.png::CompressedTexture2D::1599465203549982438::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4174247173260585343::1614163067::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaGray/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::5225828340881008507::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::8276253568786096480::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::451314716249509650::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::9017166240785138215::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::643819174230099000::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1669843194006653248::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4645363312175008535::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3678061600959265536::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaGreen/::1713544243
+Faceset.png::CompressedTexture2D::4305997441254244554::1614259482::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2383189296231394377::1614163663::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaGreen/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::4179570434350806569::1616262078::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::5171478878108825044::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3395414207218391511::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::4529290838169281018::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5237603079915141581::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1013165308474383801::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::301370956560757930::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4569034288120026539::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaMageBlack/::1713544243
+Faceset.png::CompressedTexture2D::3935286908218585934::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::204627094414420097::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaMageBlack/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::1446257452422176084::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::5233789329146947282::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8454141785192996101::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6991530380846015307::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3597461641366906471::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::920328237411337964::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5289569493855194119::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::6376351516584976902::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaMageOrange/::1713544243
+Faceset.png::CompressedTexture2D::2953826284980542482::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::932104959663304420::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaMageOrange/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::1124185931639889974::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7294623141049791517::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6965515402855095130::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8896722031661535731::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2311090176650878768::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8704205926712606608::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2334204411666152131::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8959602527902132745::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaMasked/::1713544243
+Faceset.png::CompressedTexture2D::279267039842889487::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2115515670729876692::1615899656::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaMasked/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::4493369209383532544::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7140076250059472336::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::7123188321928226546::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1643613974976734944::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5911771531107714982::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::4299659943693093524::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1998797710364505570::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2980503453777997925::1616262017::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaRed/::1713544243
+Faceset.png::CompressedTexture2D::1096942511506447680::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2593819149506028579::1614164837::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaRed/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::7816468533470643861::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6451934413952781619::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2186601367626583319::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::3931625280427305800::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7255919913843296209::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::599244731751558972::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::8978418704808804056::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::753390536771975482::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaRed2/::1713544243
+Faceset.png::CompressedTexture2D::7256567852881020851::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::75368033871949978::1616073752::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaRed2/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::6678234456125938460::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1802701087255818395::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2868498147984404059::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6311146305693149506::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::7704630944539816816::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2977545238803523769::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5612407162302334616::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::155132988784124708::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaYellow/::1713544243
+Faceset.png::CompressedTexture2D::6740487796196434415::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6933509548709645694::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/NinjaYellow/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::821493874126443222::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::2498570086140921876::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4977597296206560674::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6455274976113698783::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::540858830735134122::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7335289670986521044::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4364371574936526934::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2843750291779532094::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Noble/::1713544243
+Faceset.png::CompressedTexture2D::8808991562032500268::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1495348613505505160::1614162881::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Noble/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::940693869305449776::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1366060597393131196::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6868814653929058034::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::4468409073511854282::1616262130::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::6576971352771219426::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2600437731617813272::1616262149::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6734564568910054426::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7397209999166807692::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldMan/::1713544243
+Faceset.png::CompressedTexture2D::2409303513864991653::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2949475264340375531::1614162289::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldMan/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::3597065165802841761::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::9102018138824183282::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3294806386875979580::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1742454497985947547::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2261231728402609782::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3678731865682087376::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2677324790839635899::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::1256279036077219024::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldMan2/::1713544243
+Faceset.png::CompressedTexture2D::6675931932156150264::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2405862757228711829::1614163125::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldMan2/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::8502038930387455245::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1702304915917143244::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3679104875425588807::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::3016800986532630674::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4627984960258732495::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1261052302954920262::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3930839746380998289::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7548233352522773495::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldMan3/::1713544243
+Faceset.png::CompressedTexture2D::8581785570339398174::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5433001083604805415::1616073704::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldMan3/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::1843559865415043478::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4516375566971954727::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::9081925470475977394::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7038173386571646970::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5698277865964200647::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7191366176787252894::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1783515437053996906::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::1235941505000865945::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/OldWoman/::1713544243
+Faceset.png::CompressedTexture2D::6586340241418561231::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::9066644605886317125::1614163785::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Princess/::1713544243
+Faceset.png::CompressedTexture2D::6078129209006208329::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5523548502728416008::1616073732::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Princess/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::4430257156494973378::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1181869383057013323::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::6509265414623136254::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::5186595249713173204::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3316784042538618930::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3578951677747442617::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3019735248069578634::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::2687209236324990854::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/RobotCamouflage/::1713544243
+Faceset.png::CompressedTexture2D::1995683147594944426::1708619615::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2390933372862611273::1708619640::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/RobotCamouflage/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::5565885888624881066::1708620544::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6688332955489806298::1708620552::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::408834217791229238::1708620560::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7395739711432791929::1708620570::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3811814504153629931::1708620577::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::5390161048978675932::1708620591::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3878324457507566079::1708620584::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::5297301219070379190::1708620535::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/RobotGreen/::1713544243
+Faceset.png::CompressedTexture2D::5479720958578390620::1708618716::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6502720907225218003::1708618705::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/RobotGreen/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::917806634153857746::1708619243::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4999762006551892812::1708619236::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4546885700243799168::1708619228::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::6115673202531014037::1708619217::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::9200366102330005043::1708619209::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6560613143552553669::1708619199::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4013922457012292426::1708619191::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3084729767390199392::1708619182::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/RobotGrey/::1713544243
+Faceset.png::CompressedTexture2D::2993610113929773388::1708618744::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8009302426768573337::1708618750::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/RobotGrey/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::8806269741919443067::1708619294::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6003978945737820997::1708619288::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::2056586328938265635::1708619280::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1342375902831850031::1708619273::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4420366138390212741::1708619264::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6641714611463548654::1708619321::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1160976007373967260::1708619311::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::273021881759223036::1708619303::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Samurai/::1713544243
+Faceset.png::CompressedTexture2D::3973027237417934497::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8835747693903171827::1614182688::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Samurai/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::7585140710246971590::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::2477644330227958164::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3361514273299053463::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2186225753642616665::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5526022806536230868::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::9219708319619075643::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7445729302098539479::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7578981392373735782::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SamuraiBlue/::1713544243
+Faceset.png::CompressedTexture2D::7511946355805756263::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4257157288663613685::1616073490::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SamuraiBlue/SeparateAnim/::1713544243
+Attack.png::CompressedTexture2D::2013205410638520442::1616262472::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7822200198867876641::1616262111::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::875486054541137642::1616261984::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::5539308345201660992::1616262129::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5270174504361837996::1616262094::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::598791038116151407::1616262148::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6543388202037838653::1616262170::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4738439448772591925::1616262016::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SamuraiRed/::1713544243
+Faceset.png::CompressedTexture2D::8719384570357401392::1616073406::1718984820::1::::<><>::
+redsamurai.png::CompressedTexture2D::8412134443520164298::1616073787::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SamuraiRed/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::7591499023425548519::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::8251986332783791342::1616262112::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1329258718936793238::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::9071964122596925520::1616262131::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::6239039784163736985::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8740201713185518856::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4194368375433259478::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3584524788568631816::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Skeleton/::1713544244
+Faceset.png::CompressedTexture2D::4415712433668848039::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4693622872683172871::1614163511::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Skeleton/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::9046270985220834236::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::7255627450842108964::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::7557785350549689521::1616261985::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::734253438504232041::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2874099034532429581::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8892351971886896360::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::4915125728386168238::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8837267478642993743::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SkeletonDemon/::1713544244
+Faceset.png::CompressedTexture2D::5372398903123846876::1708619841::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2589976503957254781::1708619865::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SkeletonDemon/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::626995561878173806::1708620713::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3173282227503080307::1708620720::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3264008331517997858::1708620726::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7611624237997808477::1708620734::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::4164594832751945618::1708620740::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7295529560501222878::1708620698::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5040253647392847494::1708620692::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::732162821380878953::1708620707::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SorcererBlack/::1713544244
+Faceset.png::CompressedTexture2D::8943082245739877728::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2417775096502781842::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SorcererBlack/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::5710205681326098423::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3693737926343292667::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::1422372674789035323::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::5129510982935592291::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::5010282769925564167::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::862546049954003089::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6454543666206141123::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7365102243852489531::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SorcererOrange/::1713544244
+Faceset.png::CompressedTexture2D::8461507250664806788::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5449757298955354387::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/SorcererOrange/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::371145538168998406::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3042347522069207912::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::5945227272277721161::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7054648219536411361::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3053427132926652170::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2939003375645773598::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2851426964968697472::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::3506143175718141971::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Spirit/::1713544244
+Faceset.png::CompressedTexture2D::460609243614309835::1693384479::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1494527166309797972::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Spirit/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::993074321770285969::1693384479::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6329143523647340650::1693384479::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3761901354873146576::1693384479::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::5743278770680916162::1693384479::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::426696241441918983::1693384479::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::6319447613269209781::1693384479::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6024590780740692670::1693384479::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::1835393596667897879::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Statue/::1713544244
+Faceset.png::CompressedTexture2D::8948746208090212393::1708619892::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4231435362403415958::1708619912::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Statue/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::8956041332358285742::1708620791::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6675200243386118078::1708620798::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::3627679787305101761::1708620806::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1957439746021366615::1708620813::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3917164019068823794::1708620819::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8820059579809900335::1708620764::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::5260265672223283072::1708620771::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::1904532535883317400::1708620780::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Tengu/::1713544244
+Faceset.png::CompressedTexture2D::5316747642039020940::1708619975::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6536455593483142335::1708619965::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Tengu/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::9055671793179477529::1708620865::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6058015990729759543::1708620875::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::608804831712333071::1708620884::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::2121799540777313443::1708620892::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::6680387596474736965::1708620899::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::2832999764182982159::1708620838::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::1852782839127495614::1708620843::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::7106175849237701426::1708620858::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Tengu2/::1713544244
+Faceset.png::CompressedTexture2D::6427888276232388049::1708619991::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1090000841795602051::1708620008::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Tengu2/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::4534729769925273129::1708620945::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::6746375351000730562::1708620953::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8881901185970662054::1708620962::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::7799330344556522843::1708620969::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2388448765479691457::1708620977::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8575927559753524129::1708620926::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7113378989987757533::1708620919::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4326246418473080835::1708620938::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Vampire/::1713544244
+Faceset.png::CompressedTexture2D::4326380083482157471::1708620044::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2019268945529063283::1708620028::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Vampire/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::281383024430479281::1708621035::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::4906951584588170974::1708621042::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::931704600788747023::1708621050::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::3408207964020814665::1708621057::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::2524896558567021462::1708621066::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::1770725544163924470::1708621017::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6041618188457555545::1708621010::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8890496276118286840::1708621027::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager/::1713544244
+Faceset.png::CompressedTexture2D::8662451494695836151::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8039068335975139821::1614162226::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::5185872605757100543::1616262079::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1008213314364277881::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::7002342172546838781::1616261986::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::5455920694906615668::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3532926246705319692::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::3735409780171441327::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::2228069853778063836::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::9011291231771353430::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager2/::1713544244
+Faceset.png::CompressedTexture2D::6539178904861608062::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6162616046313960253::1614164287::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager2/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::9183186627792738295::1616262080::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1443401048994758550::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::8488640916872830003::1616261986::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::914738658862054756::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::1873408732238349469::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::5999558930845874481::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::6756390440657839211::1616262171::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::4932288179819099255::1616262018::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager3/::1713544244
+Faceset.png::CompressedTexture2D::3105591458083412898::1614164862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8068662717777097255::1615899634::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager3/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::9048569100270599264::1616262080::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::3796958096865718677::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::664817804043982422::1616261986::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::1217309092645103319::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::1781058395784332847::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::8756618517966615269::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3462257187982496888::1616262172::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::150762954678910479::1616262019::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager4/::1713544244
+Faceset.png::CompressedTexture2D::2000271946887444535::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7981996272305785888::1616074239::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Villager4/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::5671427939980438800::1616262080::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::1903921523883953190::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4950610398392244591::1616261986::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::20666381271186881::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::9046874891283846110::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::5788654090785386014::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::3613576019143762817::1616262172::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::1647619757438957979::1616262019::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Woman/::1713544244
+Faceset.png::CompressedTexture2D::6557111295949498856::1614164861::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7122348988055798268::1614164667::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Characters/Woman/SeparateAnim/::1713544244
+Attack.png::CompressedTexture2D::5835838746833041733::1616262080::1718984820::1::::<><>::
+Dead.png::CompressedTexture2D::199402217051652490::1616262113::1718984820::1::::<><>::
+Idle.png::CompressedTexture2D::4123054065878300868::1616261986::1718984820::1::::<><>::
+Item.png::CompressedTexture2D::8227238971233386447::1616262132::1718984820::1::::<><>::
+Jump.png::CompressedTexture2D::3659131409275110127::1616262095::1718984820::1::::<><>::
+Special1.png::CompressedTexture2D::7156832634158010142::1616262150::1718984820::1::::<><>::
+Special2.png::CompressedTexture2D::7146187999288778813::1616262172::1718984820::1::::<><>::
+Walk.png::CompressedTexture2D::8439743081046419127::1616262019::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/::1713544244
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Axolot/::1713544244
+Faceset.png::CompressedTexture2D::751812805632205097::1659297425::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6353453482743232851::1614252041::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/AxolotBlue/::1713544244
+Faceset.png::CompressedTexture2D::7170367583015005913::1659297461::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1241008533079039228::1659297485::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Bamboo/::1713544244
+Faceset.png::CompressedTexture2D::877075438543015485::1659297634::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8959876562035317007::1614259735::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/BambooYellow/::1713544244
+Faceset.png::CompressedTexture2D::9093648689152276158::1659297663::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6632636616477708555::1659297682::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Beast/::1713544244
+Beast.png::CompressedTexture2D::7311113967493849670::1693384479::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::9211481132295865262::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Beast2/::1713544244
+Beast2.png::CompressedTexture2D::4276440434591484827::1693384479::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::3774175100624350177::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Butterfly/::1713544244
+Faceset.png::CompressedTexture2D::5977238616972987156::1659297862::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::9115283275700333488::1614252041::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/ButterflyBlue/::1713544244
+Faceset.png::CompressedTexture2D::183440111314427455::1659297875::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1815686767156431084::1659297886::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Cyclope/::1713544244
+Faceset.png::CompressedTexture2D::5522069447800905345::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1336318578871104885::1614252041::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Cyclope2/::1713544244
+Faceset.png::CompressedTexture2D::7666054327619015954::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6488475073995463854::1616074252::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Dragon/::1713544244
+Faceset.png::CompressedTexture2D::5348964501545602733::1659297755::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7407847576464792017::1614259771::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/DragonYellow/::1713544244
+Faceset.png::CompressedTexture2D::4677432410630166301::1659297770::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1011922074332864337::1659297827::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Eye/::1713544244
+Eye.png::CompressedTexture2D::8807976579788717130::1693384479::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::747307097378690557::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Eye2/::1713544244
+Eye2.png::CompressedTexture2D::2329645340955864047::1693384479::1718984820::1::::<><>::
+Faceset.png::CompressedTexture2D::2657275075196500575::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Fish/::1713544244
+Faceset.png::CompressedTexture2D::158588425253550239::1659297585::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::9192738044240737694::1614259761::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/FishRed/::1713544244
+Faceset.png::CompressedTexture2D::8064987966031160058::1659297597::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::2997188207576252258::1659297542::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Flam/::1713544244
+Faceset.png::CompressedTexture2D::1958533369297873111::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3462436240929954093::1614252041::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Flam2/::1713544244
+Faceset.png::CompressedTexture2D::2496850824348383665::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6490624294857414679::1616074266::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/GoldRacoon/::1713544244
+Faceset.png::CompressedTexture2D::1539710032062595389::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8535681502432704491::1616074329::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/HeartGreen/::1713544244
+Faceset.png::CompressedTexture2D::7470671136929465472::1708616124::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1987187393587581742::1713454863::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/HeartRed/::1713544244
+Faceset.png::CompressedTexture2D::9078707907822011985::1708616129::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8550138728925690048::1708615860::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/KappaGreen/::1713544244
+Faceset.png::CompressedTexture2D::1535058091116115683::1708616191::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::9213732094246890100::1708615871::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/KappaRed/::1713544244
+Faceset.png::CompressedTexture2D::1914864646482118056::1708616187::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::8270983590784195893::1708615855::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/LanternGreen/::1713544244
+Faceset.png::CompressedTexture2D::573299455678311601::1708616103::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6679178206521434838::1708616522::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/LanternRed/::1713544244
+Faceset.png::CompressedTexture2D::8868285872240409093::1708616110::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6753004485475495846::1708615847::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Larva/::1713544244
+Faceset.png::CompressedTexture2D::226151412233674294::1693384479::1718984820::1::::<><>::
+Larva.png::CompressedTexture2D::7325046340747221608::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Larva2/::1713544244
+Faceset.png::CompressedTexture2D::6102774746821379446::1693384479::1718984820::1::::<><>::
+Larva2.png::CompressedTexture2D::4554279555220644401::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Lizard/::1713544244
+Faceset.png::CompressedTexture2D::1953281638841160498::1693384479::1718984820::1::::<><>::
+Lizard.png::CompressedTexture2D::1554885403169240858::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Lizard2/::1713544244
+Faceset.png::CompressedTexture2D::2114485508649644291::1693384479::1718984820::1::::<><>::
+Lizard2.png::CompressedTexture2D::5792854693517649407::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mole/::1713544244
+Faceset.png::CompressedTexture2D::9059731149356994456::1693384479::1718984820::1::::<><>::
+Mole.png::CompressedTexture2D::5608415348604024230::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mole2/::1713544244
+Faceset.png::CompressedTexture2D::4164227646455994559::1693384479::1718984820::1::::<><>::
+Mole2.png::CompressedTexture2D::7566674857724649365::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mollusc/::1713544244
+Faceset.png::CompressedTexture2D::6724810609375614364::1693384479::1718984820::1::::<><>::
+Mollusc.png::CompressedTexture2D::2846443627131958732::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mollusc2/::1713544244
+Faceset.png::CompressedTexture2D::3891973149828016944::1693384479::1718984820::1::::<><>::
+Mollusc2.png::CompressedTexture2D::8839292866266415033::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mouse/::1713544244
+Faceset.png::CompressedTexture2D::597325223817376024::1659297381::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::7354670395328702294::1614252042::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/MouseBlack/::1713544244
+Faceset.png::CompressedTexture2D::5681819271962065548::1659297366::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4626190915247372379::1659297353::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mushroom/::1713544244
+Faceset.png::CompressedTexture2D::834143626771757556::1693384479::1718984820::1::::<><>::
+mushroom.png::CompressedTexture2D::5919884835461613788::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Mushroom2/::1713544244
+Faceset.png::CompressedTexture2D::8903524390030147397::1693384479::1718984820::1::::<><>::
+mushroom2.png::CompressedTexture2D::7114679982208138706::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Octopus/::1713544244
+Faceset.png::CompressedTexture2D::7740544248608419360::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6966302732388525761::1614259747::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Octopus2/::1713544244
+Faceset.png::CompressedTexture2D::4995749987298229073::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::6133770908203275010::1616074289::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Owl/::1713544244
+Faceset.png::CompressedTexture2D::2879218121788115506::1693384479::1718984820::1::::<><>::
+Owl.png::CompressedTexture2D::1177663327560369589::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Owl2/::1713544244
+Faceset.png::CompressedTexture2D::2726082324261680465::1693384479::1718984820::1::::<><>::
+Owl2.png::CompressedTexture2D::283351799232396166::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Racoon/::1713544244
+Faceset.png::CompressedTexture2D::1271069744966231088::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4287278572325842619::1614252041::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Reptile/::1713544244
+Faceset.png::CompressedTexture2D::3140309069768318907::1693384479::1718984820::1::::<><>::
+Reptile.png::CompressedTexture2D::791438904936575614::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Reptile2/::1713544244
+Faceset.png::CompressedTexture2D::8657040196119800716::1693384479::1718984820::1::::<><>::
+Reptile2.png::CompressedTexture2D::6917020729016987473::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Skull/::1713544244
+Faceset.png::CompressedTexture2D::6109234425987652568::1659297914::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4277797296925754956::1614252042::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/SkullBlue/::1713544244
+Faceset.png::CompressedTexture2D::8128676677134357240::1659297932::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::4853748901965295426::1659297947::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Slime/::1713544244
+Faceset.png::CompressedTexture2D::3895240798589672467::1693384479::1718984820::1::::<><>::
+Slime.png::CompressedTexture2D::3107631784732273499::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Slime2/::1713544244
+Faceset.png::CompressedTexture2D::4594612359189241063::1693384479::1718984820::1::::<><>::
+Slime2.png::CompressedTexture2D::2477049700516840328::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Slime3/::1713544244
+Faceset.png::CompressedTexture2D::5180928315904439217::1693384479::1718984820::1::::<><>::
+Slime3.png::CompressedTexture2D::8087957395919328799::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Slime4/::1713544244
+Faceset.png::CompressedTexture2D::3181094421214231017::1693384479::1718984820::1::::<><>::
+Slime4.png::CompressedTexture2D::6640291026565203511::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Snake/::1713544244
+Faceset.png::CompressedTexture2D::6864412119524937639::1693384479::1718984820::1::::<><>::
+Snake.png::CompressedTexture2D::4272076773665310433::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Snake2/::1713544244
+Faceset.png::CompressedTexture2D::7804307947184626049::1693384479::1718984820::1::::<><>::
+Snake2.png::CompressedTexture2D::5730298350509279627::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Snake3/::1713544244
+Faceset.png::CompressedTexture2D::6954171453470394697::1693384479::1718984820::1::::<><>::
+Snake3.png::CompressedTexture2D::4407699179147062222::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Snake4/::1713544244
+Faceset.png::CompressedTexture2D::4567015341843375482::1693384479::1718984820::1::::<><>::
+Snake4.png::CompressedTexture2D::2804696804369428004::1693384479::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/SpiderRed/::1713544244
+Faceset.png::CompressedTexture2D::5995902102065573351::1708616079::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::1764742590828169910::1708615807::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/SpiderYellow/::1713544244
+Faceset.png::CompressedTexture2D::8759557257827291577::1708616072::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3364506448533220286::1708615773::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Spirit/::1713544244
+Faceset.png::CompressedTexture2D::6989253498055225871::1616073407::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::5509470259455656129::1616073529::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Actor/Monsters/Spirit2/::1713544244
+Faceset.png::CompressedTexture2D::4975106997959703891::1616073406::1718984820::1::::<><>::
+SpriteSheet.png::CompressedTexture2D::3698517890020534976::1616074321::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/::1713544244
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/::1713544244
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/Conveyor Belt/::1713544244
+Left.png::CompressedTexture2D::8360714831261005108::1659290897::1718984820::1::::<><>::
+Middle.png::CompressedTexture2D::8614091305787987977::1659290749::1718984820::1::::<><>::
+Right.png::CompressedTexture2D::8825469228805861462::1659290919::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/Flag/::1713544244
+FlagBlack16x16.png::CompressedTexture2D::3196251181826762654::1692528046::1718984820::1::::<><>::
+FlagBlue16x16.png::CompressedTexture2D::8009703109918881568::1692527848::1718984820::1::::<><>::
+FlagBrown16x16.png::CompressedTexture2D::20351832535534287::1692528014::1718984820::1::::<><>::
+FlagGray16x16.png::CompressedTexture2D::8069683995593263237::1692528034::1718984820::1::::<><>::
+FlagGreen16x16.png::CompressedTexture2D::4378233644901873215::1692527834::1718984820::1::::<><>::
+FlagRed16x16.png::CompressedTexture2D::640211049061805957::1614419437::1718984820::1::::<><>::
+FlagWhite16x16.png::CompressedTexture2D::7021548965279398081::1692528023::1718984820::1::::<><>::
+FlagYellow16x16.png::CompressedTexture2D::7926809764329815000::1692528001::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/Flower/::1713544244
+SpriteSheet16x16.png::CompressedTexture2D::685187597204590527::1614419469::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/MillPropeller/::1713544244
+MillPropeller_A_64x64.png::CompressedTexture2D::8808737258091169716::1692528634::1718984820::1::::<><>::
+MillPropeller_B_64x64.png::CompressedTexture2D::3537692879565898997::1659283759::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/Plant/::1713544244
+SpriteSheet16x16.png::CompressedTexture2D::2197472679333680477::1614419538::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/QuickSand/::1713544244
+QuickSand32x32.png::CompressedTexture2D::8134020969006337749::1692547645::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/Water Ripples/::1713544244
+SpriteSheet16x16.png::CompressedTexture2D::5455017084656924406::1659279364::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/Waterfall/::1713544244
+BottomSheet16x16.png::CompressedTexture2D::6698849312894003132::1614093028::1718984820::1::::<><>::
+MiddleSheet16x16.png::CompressedTexture2D::1153042085947927937::1614093074::1718984820::1::::<><>::
+TopSheet16x16.png::CompressedTexture2D::7493341131408632417::1614093090::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Animated/WaterMill/::1713544244
+Watermill_A_34x36.png::CompressedTexture2D::3654525095099043657::1659296624::1718984820::1::::<><>::
+Watermill_B_34x36.png::CompressedTexture2D::2354895538181101455::1692528494::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/::1713544244
+Pipes.png::CompressedTexture2D::1269628539544966435::1659273930::1718984820::1::::<><>::
+TilesetDesert.png::CompressedTexture2D::3959075290502042026::1692990036::1718984820::1::::<><>::
+TilesetDungeon.png::CompressedTexture2D::4178749848641385379::1659272194::1718984820::1::::<><>::
+TilesetElement.png::CompressedTexture2D::5162691384467038328::1619798734::1718984820::1::::<><>::
+TilesetField.png::CompressedTexture2D::5399455852203596968::1692529011::1718984820::1::::<><>::
+TilesetFloor.png::CompressedTexture2D::6932004258614109508::1619529435::1718984820::1::::<><>::
+TilesetFloorB.png::CompressedTexture2D::2532939961070851000::1614458458::1718984820::1::::<><>::
+TilesetFloorDetail.png::CompressedTexture2D::2844800082234297858::1614285611::1718984820::1::::<><>::
+TilesetHole.png::CompressedTexture2D::8921980620996551232::1614180479::1718984820::1::::<><>::
+TilesetHouse.png::CompressedTexture2D::6083082875718953501::1659299826::1718984820::1::::<><>::
+TilesetLogic.png::CompressedTexture2D::2423870502116382386::1614283642::1718984820::1::::<><>::
+TilesetNature.png::CompressedTexture2D::5236393140906764198::1693294974::1718984820::1::::<><>::
+TilesetRelief.png::CompressedTexture2D::1325459766849148867::1614351284::1718984820::1::::<><>::
+TilesetReliefDetail.png::CompressedTexture2D::965573305917257506::1659272037::1718984820::1::::<><>::
+TilesetVillageAbandoned.png::CompressedTexture2D::3501358088435281325::1692371270::1718984820::1::::<><>::
+TilesetWater.png::CompressedTexture2D::7048151540807050161::1619886488::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Tilesets/Interior/::1713544244
+Elements.png::CompressedTexture2D::3184178040535376276::1619790118::1718984820::1::::<><>::
+TilesetInterior.png::CompressedTexture2D::159003479865368451::1619796260::1718984820::1::::<><>::
+TilesetInteriorFloor.png::CompressedTexture2D::6571076492452584246::1619800250::1718984820::1::::<><>::
+TilesetWallSimple.png::CompressedTexture2D::1639549208209619515::1619790030::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Backgrounds/Vehicles/::1713544244
+Boat.png::CompressedTexture2D::2788510781520630351::1659293602::1718984820::1::::<><>::
+Crane.png::CompressedTexture2D::9158302665182716491::1659294243::1718984820::1::::<><>::
+FishNet.png::CompressedTexture2D::449823547594209721::1659294750::1718984820::1::::<><>::
+FishNetFull.png::CompressedTexture2D::8836671589308756385::1659294948::1718984820::1::::<><>::
+Sail.png::CompressedTexture2D::721589371730457380::1659293782::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/::1713545909
+AllPreview.png::CompressedTexture2D::8935408937140463801::1614449313::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Elemental/::1713544244
+::res://art/Ninja Adventure - Asset Pack/FX/Elemental/Flam/::1713544244
+SpriteSheet.png::CompressedTexture2D::5481708387582137799::1614253891::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Elemental/Ice/::1713544244
+SpriteSheet.png::CompressedTexture2D::2769728863489515550::1614447178::1718984820::1::::<><>::
+SpriteSheetB.png::CompressedTexture2D::1491064096642630192::1614447239::1718984820::1::::<><>::
+SpriteSheetFlake.png::CompressedTexture2D::4616517754164862185::1614447215::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Elemental/Plant/::1713544244
+SpriteSheet.png::CompressedTexture2D::5617639368666779741::1614447688::1718984820::1::::<><>::
+SpriteSheetB.png::CompressedTexture2D::2355327662945630438::1614447717::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Elemental/Rock/::1713544244
+SpriteSheet.png::CompressedTexture2D::7492683897974019335::1614449249::1718984820::1::::<><>::
+SpriteSheetB.png::CompressedTexture2D::196497032602629661::1614449287::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Elemental/Thunder/::1713544244
+SpriteSheet.png::CompressedTexture2D::2431442924890849917::1614445934::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Environment/::1713545910
+Fog.png::CompressedTexture2D::659595066857001643::1707010888::1718984820::1::::<><>::
+Raylight.png::CompressedTexture2D::4943195757045986435::1707010073::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Magic/::1713544244
+::res://art/Ninja Adventure - Asset Pack/FX/Magic/Aura/::1713544244
+SpriteSheetPurple.png::CompressedTexture2D::2747562608286153216::1614253549::1718984820::1::::<><>::
+SpriteSheetWhite.png::CompressedTexture2D::5127759160299634200::1614253267::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Magic/Circle/::1713544244
+SpriteSheetOrange.png::CompressedTexture2D::8532880126561841542::1614253594::1718984820::1::::<><>::
+SpriteSheetSpark2.png::CompressedTexture2D::1522298122382118055::1614253696::1718984820::1::::<><>::
+SpriteSheetSpark.png::CompressedTexture2D::3652962172095765552::1614253665::1718984820::1::::<><>::
+SpriteSheetWhite.png::CompressedTexture2D::8652995802353108836::1614253306::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Magic/Shield/::1713544244
+SpriteSheetBlue.png::CompressedTexture2D::5807548100669030663::1614445334::1718984820::1::::<><>::
+SpriteSheetYellow.png::CompressedTexture2D::9098767770965234222::1614445388::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Magic/Spark/::1713544244
+SpriteSheet.png::CompressedTexture2D::1871815404310278218::1614253471::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Magic/Spirit/::1713544244
+SpriteSheet.png::CompressedTexture2D::6338229754262121536::1614253485::1718984820::1::::<><>::
+SpriteSheetBlue.png::CompressedTexture2D::8186029654478037740::1614254165::1718984820::1::::<><>::
+SpriteSheetDouble.png::CompressedTexture2D::3397696786681776081::1614254227::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Particle/::1713544244
+AllPreview.png::CompressedTexture2D::5122447686690329510::1614453843::1718984820::1::::<><>::
+Bamboo.png::CompressedTexture2D::6157215060516813594::1614198008::1718984820::1::::<><>::
+Clouds.png::CompressedTexture2D::229039101955314937::1614193652::1718984820::1::::<><>::
+Fire.png::CompressedTexture2D::3792121811514232268::1614444138::1718984820::1::::<><>::
+Grass.png::CompressedTexture2D::1685061303448293072::1614199089::1718984820::1::::<><>::
+Leaf.png::CompressedTexture2D::7391695033586480094::1614187025::1718984820::1::::<><>::
+LeafPink.png::CompressedTexture2D::6498200480186419058::1614258848::1718984820::1::::<><>::
+Rain.png::CompressedTexture2D::5942113126926366699::1614193215::1718984820::1::::<><>::
+RainOnFloor.png::CompressedTexture2D::5476617581493564713::1614193278::1718984820::1::::<><>::
+Rock.png::CompressedTexture2D::799308768772036013::1614198361::1718984820::1::::<><>::
+RockGray.png::CompressedTexture2D::7422766333804686174::1614258732::1718984820::1::::<><>::
+Snow.png::CompressedTexture2D::629440501873296071::1614192905::1718984820::1::::<><>::
+Spark.png::CompressedTexture2D::8589176519680352372::1614195748::1718984820::1::::<><>::
+Vase.png::CompressedTexture2D::3225458024043899825::1614198595::1718984820::1::::<><>::
+Wood.png::CompressedTexture2D::2522672992812412715::1614258671::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Projectile/::1713544244
+AllPreview.png::CompressedTexture2D::714357126183037288::1614453695::1718984820::1::::<><>::
+Arrow.png::CompressedTexture2D::3781680475227786732::1614251520::1718984820::1::::<><>::
+BigEnergyBall.png::CompressedTexture2D::3396340970598452332::1614451771::1718984820::1::::<><>::
+BigKunai.png::CompressedTexture2D::5326760284004150777::1614451321::1718984820::1::::<><>::
+BigShuriken.png::CompressedTexture2D::2488918661976005277::1614450688::1718984820::1::::<><>::
+CanonBall.png::CompressedTexture2D::6197890281902912970::1614452164::1718984820::1::::<><>::
+EnergyBall.png::CompressedTexture2D::3312514619814844264::1614450200::1718984820::1::::<><>::
+Fireball.png::CompressedTexture2D::7395999315161903493::1614450154::1718984820::1::::<><>::
+IceSpike.png::CompressedTexture2D::9038753230643103683::1614451145::1718984820::1::::<><>::
+Kunai.png::CompressedTexture2D::5568701870951518796::1614254691::1718984820::1::::<><>::
+PlantSpike.png::CompressedTexture2D::4590627039238109237::1614452785::1718984820::1::::<><>::
+Shuriken.png::CompressedTexture2D::4182155338994895177::1614450733::1718984820::1::::<><>::
+ShurikenMagic.png::CompressedTexture2D::8412212910374756463::1614451841::1718984820::1::::<><>::
+SpriteSheetRock.png::CompressedTexture2D::7228745758461708587::1614449846::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/::1713544244
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/CircularSlash/::1713544244
+SpriteSheet.png::CompressedTexture2D::2063998245595399491::1614253727::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/Claw/::1713544244
+SpriteSheet.png::CompressedTexture2D::8287269166150485770::1614253756::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/ClawDouble/::1713544244
+SpriteSheet.png::CompressedTexture2D::2177706332924564292::1614253812::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/Cut/::1713544244
+SpriteSheet.png::CompressedTexture2D::383299121787971215::1614253847::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/Slash/::1713544244
+SpriteSheet.png::CompressedTexture2D::3426427549324386982::1614253922::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/SlashCurved/::1713544244
+SpriteSheet.png::CompressedTexture2D::4631401201679538871::1614253952::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/SlashDouble/::1713544244
+SpriteSheet.png::CompressedTexture2D::2433943431248158821::1614253978::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/SlashFx/SlashDoubleCurved/::1713544244
+SpriteSheet.png::CompressedTexture2D::6368052135357255617::1614254006::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Smoke/::1713544244
+::res://art/Ninja Adventure - Asset Pack/FX/Smoke/Smoke/::1713544244
+SpriteSheet.png::CompressedTexture2D::2678119934127582101::1614254098::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/FX/Smoke/SmokeCircular/::1713544244
+SpriteSheet.png::CompressedTexture2D::3760350040183554755::1614444941::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/::1713544245
+AllPreview.png::CompressedTexture2D::2265703131021193495::1614456562::1718984820::1::::<><>::
+WeaponPreview2.png::CompressedTexture2D::336739543611735506::1616261309::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Food/::1713544245
+Beaf.png::CompressedTexture2D::3187945938352576441::1614254996::1718984820::1::::<><>::
+Calamari.png::CompressedTexture2D::2816086636981997939::1614455492::1718984820::1::::<><>::
+Fish.png::CompressedTexture2D::3013485161266908417::1614255009::1718984820::1::::<><>::
+FortuneCookie.png::CompressedTexture2D::1131040224685968671::1614255017::1718984820::1::::<><>::
+Honey.png::CompressedTexture2D::8121930584752124264::1614455586::1718984820::1::::<><>::
+Noodle.png::CompressedTexture2D::7729305599239017310::1614454067::1718984820::1::::<><>::
+Nut2.png::CompressedTexture2D::6535195639316350522::1659299174::1718984820::1::::<><>::
+Nut.png::CompressedTexture2D::1773090474762498845::1659299168::1718984820::1::::<><>::
+Octopus.png::CompressedTexture2D::1578772187833230049::1614259800::1718984820::1::::<><>::
+Onigiri.png::CompressedTexture2D::7555484914937467342::1614255039::1718984820::1::::<><>::
+Seed1.png::CompressedTexture2D::5411020486279420020::1659279591::1718984820::1::::<><>::
+Seed2.png::CompressedTexture2D::1458886637735740494::1659279597::1718984820::1::::<><>::
+Seed3.png::CompressedTexture2D::3658200304763155077::1659279848::1718984820::1::::<><>::
+SeedBig1.png::CompressedTexture2D::2603332202307895066::1659279703::1718984820::1::::<><>::
+SeedBig2.png::CompressedTexture2D::5966003327980292639::1659279715::1718984820::1::::<><>::
+SeedBig3.png::CompressedTexture2D::6538980739314677563::1659279729::1718984820::1::::<><>::
+SeedLarge.png::CompressedTexture2D::465145863517788937::1659279839::1718984820::1::::<><>::
+SeedLargeWhite.png::CompressedTexture2D::5770741103629331601::1659271461::1718984820::1::::<><>::
+Shrimp.png::CompressedTexture2D::2138233863677946654::1614255043::1718984820::1::::<><>::
+Sushi2.png::CompressedTexture2D::3615220919433518194::1614255051::1718984820::1::::<><>::
+Sushi.png::CompressedTexture2D::2724591367508173832::1614255047::1718984820::1::::<><>::
+TeaLeaf.png::CompressedTexture2D::1356747358442255838::1614259816::1718984820::1::::<><>::
+Yakitori.png::CompressedTexture2D::3463562724265771050::1614255059::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Other/::1713544245
+Letter2.png::CompressedTexture2D::8387258462216307002::1659271493::1718984820::1::::<><>::
+Letter3.png::CompressedTexture2D::8001772557627370653::1659271505::1718984820::1::::<><>::
+Letter.png::CompressedTexture2D::998463183983783391::1659271485::1718984820::1::::<><>::
+Stamp.png::CompressedTexture2D::6026276479689957229::1659273274::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Potion/::1713544245
+EmptyPot.png::CompressedTexture2D::3050590515436226929::1614254733::1718984820::1::::<><>::
+Hear.png::CompressedTexture2D::7596742832498816951::1614254947::1718984820::1::::<><>::
+LifePot.png::CompressedTexture2D::7521091506901644993::1614455626::1718984820::1::::<><>::
+Medipack.png::CompressedTexture2D::5881342944343002533::1614254923::1718984820::1::::<><>::
+MilkPot.png::CompressedTexture2D::5268844640855610691::1614254624::1718984820::1::::<><>::
+WaterPot.png::CompressedTexture2D::7731028409858006::1614254965::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Scroll/::1713544245
+ScrollEmpty.png::CompressedTexture2D::5580530619901718988::1614254620::1718984820::1::::<><>::
+ScrollFire.png::CompressedTexture2D::4703570898071015936::1614254883::1718984820::1::::<><>::
+ScrollIce.png::CompressedTexture2D::2104277874270741266::1614254892::1718984820::1::::<><>::
+ScrollPlant.png::CompressedTexture2D::4274989880441784181::1614259839::1718984820::1::::<><>::
+ScrollRock.png::CompressedTexture2D::1658009097660229548::1614254601::1718984820::1::::<><>::
+ScrollThunder.png::CompressedTexture2D::6965843948968422085::1614254596::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Treasure/::1713544245
+BigTreasureChest.png::CompressedTexture2D::7339993932435595357::1614254847::1718984820::1::::<><>::
+Coin2.png::CompressedTexture2D::1165772224917165509::1614254806::1718984820::1::::<><>::
+GoldCoin.png::CompressedTexture2D::7999040011505060254::1614254726::1718984820::1::::<><>::
+GoldCup.png::CompressedTexture2D::525638784204092697::1614254722::1718984820::1::::<><>::
+GoldKey.png::CompressedTexture2D::7232734240712995889::1614254719::1718984820::1::::<><>::
+LittleTreasureChest.png::CompressedTexture2D::1653891395101326347::1614254632::1718984820::1::::<><>::
+SilverCoin.png::CompressedTexture2D::1919381157465977945::1614254588::1718984820::1::::<><>::
+SilverCup.png::CompressedTexture2D::48741338645318329::1614254583::1718984820::1::::<><>::
+SilverKey.png::CompressedTexture2D::2190313487163864770::1614254578::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/::1713544245
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Axe/::1713544245
+Sprite.png::CompressedTexture2D::8867568293139758758::1614251090::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::7579723917306368245::1614251096::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/AxeTool/::1713544245
+Sprite.png::CompressedTexture2D::4708622541366291749::1659273328::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::2485434562020829271::1659273343::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/BigSword/::1713544245
+Sprite.png::CompressedTexture2D::2168210672304831762::1619465018::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::6325779438506678764::1616260755::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Bone/::1713544245
+Sprite.png::CompressedTexture2D::4601475321613451880::1616260795::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::8191067811202799720::1616260806::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Book/::1713544245
+Sprite.png::CompressedTexture2D::7948477016137050735::1616260833::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::7801323434636160408::1616260842::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Bow/::1713544245
+Arrow.png::CompressedTexture2D::99707758473793321::1614251525::1718984820::1::::<><>::
+Sprite.png::CompressedTexture2D::6397778246978465818::1614251467::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Bow2/::1713544245
+Arrow.png::CompressedTexture2D::4025559545784448047::1616261192::1718984820::1::::<><>::
+Sprite.png::CompressedTexture2D::997984994535116122::1616261187::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Club/::1713544245
+Sprite.png::CompressedTexture2D::4458066745122966265::1616260865::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::8791361980084294358::1616260875::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Fishing Rod/::1713544245
+Sprite.png::CompressedTexture2D::4287756291932010207::1659295380::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Fork/::1713544245
+Sprite.png::CompressedTexture2D::4509363602393351633::1614251161::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::3083948075921211186::1614251168::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Hammer/::1713544245
+Sprite.png::CompressedTexture2D::5281719304351796278::1614251222::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::6066675810047479601::1614251228::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Katana/::1713544245
+Sprite.png::CompressedTexture2D::8276800718780526860::1614251431::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::4850140653202076660::1614250713::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Lance/::1713544245
+Sprite.png::CompressedTexture2D::3031211037720927483::1614251388::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::615622671201621771::1614250718::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Lance2/::1713544245
+Sprite.png::CompressedTexture2D::1766217911601981252::1616260921::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::2786944921517172154::1616260913::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/MagicWand/::1713544245
+Sprite.png::CompressedTexture2D::7457141276890723759::1616261009::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::6714642581392330109::1616261019::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Ninjaku/::1713544245
+Sprite.png::CompressedTexture2D::2138149363420939498::1616260969::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::8578350710953766333::1616260980::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Pickaxe/::1713544245
+Sprite.png::CompressedTexture2D::681304266320629924::1659273372::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::4790194894525971216::1659273383::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Rapier/::1713544245
+Sprite.png::CompressedTexture2D::692553911943340507::1616261152::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::243638021036615747::1616261161::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Sai/::1713544245
+Sprite.png::CompressedTexture2D::3235229960611787060::1614251357::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::2961685169600281205::1614251349::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Stick/::1713544245
+Sprite.png::CompressedTexture2D::4231109746305720517::1616261050::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::837914093661465489::1616261058::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Sword/::1713544245
+Sprite.png::CompressedTexture2D::8125891610673150366::1614251303::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::4464456180004483754::1614251314::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Sword2/::1713544245
+Sprite.png::CompressedTexture2D::717599076384602105::1616261122::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::3145095347878690352::1616261129::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Items/Weapons/Whip/::1713544245
+Sprite.png::CompressedTexture2D::6512050803057676833::1616261085::1718984820::1::::<><>::
+SpriteInHand.png::CompressedTexture2D::2028947195777701361::1616261094::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Musics/::1713544245
+1 - Adventure Begin.ogg::AudioStreamOggVorbis::5335651376052578932::1569096251::1718984820::1::::<><>::
+2 - The Cave.ogg::AudioStreamOggVorbis::2332666310514932468::1569096251::1718984820::1::::<><>::
+3 - Revelation.ogg::AudioStreamOggVorbis::2829112032632550593::1569096251::1718984820::1::::<><>::
+4 - Village.ogg::AudioStreamOggVorbis::5920309258721261215::1569096251::1718984820::1::::<><>::
+5 - Peaceful.ogg::AudioStreamOggVorbis::8192352108621897485::1569096251::1718984820::1::::<><>::
+6 - Story (Short).ogg::AudioStreamOggVorbis::3587739730388540161::1569096251::1718984820::1::::<><>::
+6 - Story.ogg::AudioStreamOggVorbis::2406716820872779320::1569096251::1718984820::1::::<><>::
+7 - Sad Theme.ogg::AudioStreamOggVorbis::2571465482016777455::1569096251::1718984820::1::::<><>::
+8 - End Theme.ogg::AudioStreamOggVorbis::1611454560577737917::1569096251::1718984820::1::::<><>::
+9 - Quiet.ogg::AudioStreamOggVorbis::3516379760380631755::1569096251::1718984820::1::::<><>::
+10 - Dark Castle.ogg::AudioStreamOggVorbis::4589431922366214302::1569096251::1718984820::1::::<><>::
+11 - Clearing.ogg::AudioStreamOggVorbis::5517704238854381547::1569096251::1718984820::1::::<><>::
+12 - Temple.ogg::AudioStreamOggVorbis::5140129260112311341::1569096251::1718984820::1::::<><>::
+13 - Mystical.ogg::AudioStreamOggVorbis::6466837209459017536::1569096251::1718984820::1::::<><>::
+14 - Curse.ogg::AudioStreamOggVorbis::3972319907566806166::1569096251::1718984820::1::::<><>::
+15 - Credit Theme.ogg::AudioStreamOggVorbis::1192278214315437974::1569096251::1718984820::1::::<><>::
+16 - Melancholia.ogg::AudioStreamOggVorbis::3531655870980895494::1614356497::1718984820::1::::<><>::
+17 - Fight.ogg::AudioStreamOggVorbis::6198028259124454898::1614378549::1718984820::1::::<><>::
+18 - Aquatic.ogg::AudioStreamOggVorbis::4477547570650986425::1614375762::1718984820::1::::<><>::
+19 - Ascension.ogg::AudioStreamOggVorbis::895831491731561424::1614377466::1718984820::1::::<><>::
+20 - Good Time.ogg::AudioStreamOggVorbis::3322711815843888946::1614417603::1718984820::1::::<><>::
+21 - Dungeon.ogg::AudioStreamOggVorbis::4166548673818527719::1619122144::1718984820::1::::<><>::
+22 - Dream.ogg::AudioStreamOggVorbis::1571604702383323583::1619134501::1718984820::1::::<><>::
+23 - Road.ogg::AudioStreamOggVorbis::2287109733156261642::1619176355::1718984820::1::::<><>::
+24 - Final Area.ogg::AudioStreamOggVorbis::823716008436876219::1619204733::1718984820::1::::<><>::
+25 - End Theme 2.ogg::AudioStreamOggVorbis::4193339374634836196::1619209359::1718984820::1::::<><>::
+26 - Lost Village.ogg::AudioStreamOggVorbis::1288776601753646026::1692376882::1718984820::1::::<><>::
+27 - Chill.ogg::AudioStreamOggVorbis::6439368126695564444::1692208654::1718984820::1::::<><>::
+28 - Tension.ogg::AudioStreamOggVorbis::5158973329764864449::1692212953::1718984820::1::::<><>::
+29 - Lament.ogg::AudioStreamOggVorbis::6624217908598655164::1692214119::1718984820::1::::<><>::
+30 - Ruins.ogg::AudioStreamOggVorbis::5457554477351419366::1692379932::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Sounds/::1713544245
+::res://art/Ninja Adventure - Asset Pack/Sounds/Game/::1713544245
+Alert2.wav::AudioStreamWAV::4684048270394784888::1614269000::1718984820::1::::<><>::
+Alert.wav::AudioStreamWAV::8322964594794430964::1614268984::1718984820::1::::<><>::
+Bonus.wav::AudioStreamWAV::2378825230515566638::1614457422::1718984820::1::::<><>::
+Coin.wav::AudioStreamWAV::1426163446739946496::1614457438::1718984820::1::::<><>::
+Explosion2.wav::AudioStreamWAV::5431551068848239778::1614457386::1718984820::1::::<><>::
+Explosion3.wav::AudioStreamWAV::3783046629631548261::1614457397::1718984820::1::::<><>::
+Explosion4.wav::AudioStreamWAV::4606397113862461024::1614457498::1718984820::1::::<><>::
+Explosion.wav::AudioStreamWAV::3653302339521147363::1614457374::1718984820::1::::<><>::
+Fire2.wav::AudioStreamWAV::5623885205244246819::1614457785::1718984820::1::::<><>::
+Fire3.wav::AudioStreamWAV::8946689984178745366::1614457899::1718984820::1::::<><>::
+Fire.wav::AudioStreamWAV::599442089335898278::1614457515::1718984820::1::::<><>::
+Fireball2.wav::AudioStreamWAV::5453818049468486190::1614457763::1718984820::1::::<><>::
+Fireball.wav::AudioStreamWAV::6787093174520883534::1614457547::1718984820::1::::<><>::
+Fx.wav::AudioStreamWAV::7124069452891537035::1614269014::1718984820::1::::<><>::
+GameOver2.wav::AudioStreamWAV::923384113748384342::1614269088::1718984820::1::::<><>::
+GameOver.wav::AudioStreamWAV::3857140315891714517::1614269029::1718984820::1::::<><>::
+Gold1.wav::AudioStreamWAV::5219693023833389855::1614269108::1718984820::1::::<><>::
+Gold2.wav::AudioStreamWAV::7212259479858127852::1614269127::1718984820::1::::<><>::
+Gold3.wav::AudioStreamWAV::2381033548159339194::1614269157::1718984820::1::::<><>::
+Hit1.wav::AudioStreamWAV::5139370070216742824::1614269178::1718984820::1::::<><>::
+Hit2.wav::AudioStreamWAV::97503601841262990::1614269195::1718984820::1::::<><>::
+Hit3.wav::AudioStreamWAV::2500250660821746818::1614269209::1718984820::1::::<><>::
+Hit4.wav::AudioStreamWAV::5781074987860182036::1614269224::1718984820::1::::<><>::
+Hit5.wav::AudioStreamWAV::7852980619286805626::1614269237::1718984820::1::::<><>::
+Hit6.wav::AudioStreamWAV::2241628858779128049::1614269254::1718984820::1::::<><>::
+Hit7.wav::AudioStreamWAV::1068694892305726551::1614457472::1718984820::1::::<><>::
+Hit.wav::AudioStreamWAV::2284113515791828229::1614457348::1718984820::1::::<><>::
+Jump.wav::AudioStreamWAV::4452873059194383337::1614457490::1718984820::1::::<><>::
+Kill.wav::AudioStreamWAV::3879565342263015724::1614269271::1718984820::1::::<><>::
+Magic1.wav::AudioStreamWAV::7885892488829107197::1614269285::1718984820::1::::<><>::
+Magic2.wav::AudioStreamWAV::2611339752542378881::1614269319::1718984820::1::::<><>::
+Magic3.wav::AudioStreamWAV::5278967493940462598::1614269337::1718984820::1::::<><>::
+MiniImpact.wav::AudioStreamWAV::4827722465204188986::1614269377::1718984820::1::::<><>::
+PowerUp1.wav::AudioStreamWAV::4398272532920401967::1614269397::1718984820::1::::<><>::
+PowerUp2.wav::AudioStreamWAV::4264465306800973244::1614269411::1718984820::1::::<><>::
+Secret1.wav::AudioStreamWAV::3317389396688645531::1614269434::1718984820::1::::<><>::
+Spirit.wav::AudioStreamWAV::4090083067181641529::1614457599::1718984820::1::::<><>::
+Strange.wav::AudioStreamWAV::2908724422439851414::1614457709::1718984820::1::::<><>::
+Success1.wav::AudioStreamWAV::3503282201617091631::1614269448::1718984820::1::::<><>::
+Success2.wav::AudioStreamWAV::1202880732253675359::1614269465::1718984820::1::::<><>::
+Success3.wav::AudioStreamWAV::3365729166056762595::1614269482::1718984820::1::::<><>::
+Sword2.wav::AudioStreamWAV::2414572005990048427::1614457298::1718984820::1::::<><>::
+Sword.wav::AudioStreamWAV::7831666497989217057::1614269501::1718984820::1::::<><>::
+Voice1.wav::AudioStreamWAV::1595770399381233951::1614269517::1718984820::1::::<><>::
+Voice2.wav::AudioStreamWAV::3240267941084992905::1614269531::1718984820::1::::<><>::
+Voice3.wav::AudioStreamWAV::9041361093315531785::1614269544::1718984820::1::::<><>::
+Voice4.wav::AudioStreamWAV::3652612118022395489::1614269557::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Sounds/Menu/::1713544245
+Accept2.wav::AudioStreamWAV::4596479697855817687::1614269650::1718984820::1::::<><>::
+Accept.wav::AudioStreamWAV::4541808472159695345::1614269635::1718984820::1::::<><>::
+Cancel.wav::AudioStreamWAV::1604950788011565808::1614269665::1718984820::1::::<><>::
+Menu1.wav::AudioStreamWAV::3654629456860278982::1614269680::1718984820::1::::<><>::
+Menu2.wav::AudioStreamWAV::4054233441339751515::1614269699::1718984820::1::::<><>::
+Menu3.wav::AudioStreamWAV::5222842226025179627::1614269716::1718984820::1::::<><>::
+Menu4.wav::AudioStreamWAV::5834171874796475736::1614269734::1718984820::1::::<><>::
+Menu5.wav::AudioStreamWAV::8590250938776341804::1614269747::1718984820::1::::<><>::
+Menu6.wav::AudioStreamWAV::1354462208953181267::1614269782::1718984820::1::::<><>::
+Menu7.wav::AudioStreamWAV::6792416136960969445::1614269805::1718984820::1::::<><>::
+Menu8.wav::AudioStreamWAV::8363978234078031937::1614269818::1718984820::1::::<><>::
+Menu9.wav::AudioStreamWAV::1348098779456996043::1614269831::1718984820::1::::<><>::
+Menu10.wav::AudioStreamWAV::4230946947192790385::1614269846::1718984820::1::::<><>::
+Menu11.wav::AudioStreamWAV::2551968624323614925::1614269862::1718984820::1::::<><>::
+Menu12.wav::AudioStreamWAV::8075928117503522576::1614269876::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/::1713544245
+Arrow.png::CompressedTexture2D::6995561206031969944::1614250011::1718984820::1::::<><>::
+Kunai.png::CompressedTexture2D::1592414532068402124::1614250293::1718984820::1::::<><>::
+LifeBarMiniProgress.png::CompressedTexture2D::4818495309725516036::1619693877::1718984820::1::::<><>::
+LifeBarMiniUnder.png::CompressedTexture2D::5687330423192894170::1619693860::1718984820::1::::<><>::
+Shuriken.png::CompressedTexture2D::8373206345926322014::1614250302::1718984820::1::::<><>::
+Tuto.png::CompressedTexture2D::3001492553131312789::1620048693::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/Dialog/::1713544245
+ChoiceBox.png::CompressedTexture2D::5318369142583690243::1619558503::1718984820::1::::<><>::
+DialogBox.png::CompressedTexture2D::7803608457406830014::1619551316::1718984820::1::::<><>::
+DialogBoxFaceset.png::CompressedTexture2D::2260658910216835239::1619551719::1718984820::1::::<><>::
+DialogInfo.png::CompressedTexture2D::7407776057214363502::1619549725::1718984820::1::::<><>::
+DialogueBoxSimple.png::CompressedTexture2D::2350495592902174988::1614249992::1718984820::1::::<><>::
+FacesetBox.png::CompressedTexture2D::4855693429663364883::1614250042::1718984820::1::::<><>::
+NoButton.png::CompressedTexture2D::517520826126278430::1614250375::1718984820::1::::<><>::
+YesButton.png::CompressedTexture2D::9210972034615936515::1614250381::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/Emote/::1713544245
+emote1.png::CompressedTexture2D::2439766150823198948::1713534668::1718984820::1::::<><>::
+emote2.png::CompressedTexture2D::6540546385714014842::1713534668::1718984820::1::::<><>::
+emote3.png::CompressedTexture2D::8634701305879668907::1713534668::1718984820::1::::<><>::
+emote4.png::CompressedTexture2D::3031606659356427547::1713534668::1718984820::1::::<><>::
+emote5.png::CompressedTexture2D::5318365776363370552::1713534668::1718984820::1::::<><>::
+emote6.png::CompressedTexture2D::3005269334833347189::1713534668::1718984820::1::::<><>::
+emote7.png::CompressedTexture2D::4194663108715020590::1713534668::1718984820::1::::<><>::
+emote8.png::CompressedTexture2D::5942045855481735799::1713534668::1718984820::1::::<><>::
+emote9.png::CompressedTexture2D::6716256141417921344::1713534668::1718984820::1::::<><>::
+emote10.png::CompressedTexture2D::4311066728688206104::1713534668::1718984820::1::::<><>::
+emote11.png::CompressedTexture2D::676077803903972269::1713534668::1718984820::1::::<><>::
+emote12.png::CompressedTexture2D::7419686804385826715::1713534668::1718984820::1::::<><>::
+emote13.png::CompressedTexture2D::7339634476838543107::1713534668::1718984820::1::::<><>::
+emote14.png::CompressedTexture2D::1887780933630601542::1713534668::1718984820::1::::<><>::
+emote15.png::CompressedTexture2D::885121811835915043::1713534668::1718984820::1::::<><>::
+emote16.png::CompressedTexture2D::5593852263144700342::1713534668::1718984820::1::::<><>::
+emote17.png::CompressedTexture2D::4476727896076530271::1713534668::1718984820::1::::<><>::
+emote18.png::CompressedTexture2D::7512828544058076278::1713534668::1718984820::1::::<><>::
+emote19.png::CompressedTexture2D::7866605554402815782::1713534668::1718984820::1::::<><>::
+emote20.png::CompressedTexture2D::8798122723204597462::1713534668::1718984820::1::::<><>::
+emote21.png::CompressedTexture2D::7734835201227470835::1713534668::1718984820::1::::<><>::
+emote22.png::CompressedTexture2D::2504995008381863398::1713534668::1718984820::1::::<><>::
+emote23.png::CompressedTexture2D::6959907338644864348::1713534668::1718984820::1::::<><>::
+emote24.png::CompressedTexture2D::48221383395393616::1713534668::1718984820::1::::<><>::
+emote25.png::CompressedTexture2D::8937232778388996536::1713534668::1718984820::1::::<><>::
+emote26.png::CompressedTexture2D::8545729001246494947::1713534668::1718984820::1::::<><>::
+emote27.png::CompressedTexture2D::374400560703828369::1713534668::1718984820::1::::<><>::
+emote28.png::CompressedTexture2D::558522665760043957::1713534668::1718984820::1::::<><>::
+emote29.png::CompressedTexture2D::6646709048477946283::1713534668::1718984820::1::::<><>::
+emote30.png::CompressedTexture2D::5328730146677457801::1713534668::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/Font/::1713544245
+font8x8.png::CompressedTexture2D::846604006538127862::1569096251::1718984820::1::::<><>::
+font24x30.png::CompressedTexture2D::2538945775228918985::1614097128::1718984820::1::::<><>::
+NormalFont.ttf::FontFile::1343423341685204754::1614273792::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/LifeReceptacle/::1713544245
+heart.png::CompressedTexture2D::8542814412652531358::1707081222::1718984820::1::::<><>::
+heart_2.png::CompressedTexture2D::3544626312582208404::1707082913::1718984820::1::::<><>::
+heart_3.png::CompressedTexture2D::3813211127307372324::1707082303::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/Theme/::1713544245
+nine_path_1.png::CompressedTexture2D::8278831162155376504::1713541872::1718984820::1::::<><>::
+nine_path_2.png::CompressedTexture2D::7222786910285443117::1713469657::1718984820::1::::<><>::
+nine_path_3.png::CompressedTexture2D::6207911407858913313::1713470005::1718984820::1::::<><>::
+nine_path_4.png::CompressedTexture2D::8403963246809347978::1713470214::1718984820::1::::<><>::
+nine_path_5.png::CompressedTexture2D::9079282292817664144::1713470371::1718984820::1::::<><>::
+nine_path_6.png::CompressedTexture2D::5631219733679495562::1713470483::1718984820::1::::<><>::
+nine_path_7.png::CompressedTexture2D::6788912387356718228::1713470690::1718984820::1::::<><>::
+nine_path_8.png::CompressedTexture2D::4781784014902068662::1713470752::1718984820::1::::<><>::
+nine_path_9.png::CompressedTexture2D::7113510619156025903::1713471122::1718984820::1::::<><>::
+nine_path_10.png::CompressedTexture2D::1341120285404949997::1713471298::1718984820::1::::<><>::
+nine_path_11.png::CompressedTexture2D::1470203806206789658::1713471558::1718984820::1::::<><>::
+nine_path_12.png::CompressedTexture2D::8234749968412178961::1713471655::1718984820::1::::<><>::
+preview.png::CompressedTexture2D::8451364726772840863::1713471784::1718984820::1::::<><>::
+::res://art/Ninja Adventure - Asset Pack/Ui/Theme/Theme1/::1713544245
+button_disabled.png::CompressedTexture2D::5357390570415925460::1713539904::1718984820::1::::<><>::
+button_hover.png::CompressedTexture2D::8776107411919665865::1713538271::1718984820::1::::<><>::
+button_normal.png::CompressedTexture2D::7905169715242775085::1713538243::1718984820::1::::<><>::
+button_pressed.png::CompressedTexture2D::371671928858784496::1713538290::1718984820::1::::<><>::
+checked.png::CompressedTexture2D::5694620073452505336::1713541365::1718984820::1::::<><>::
+checked_disabled.png::CompressedTexture2D::6719683812909353195::1713541472::1718984820::1::::<><>::
+h_slidder_grabber.png::CompressedTexture2D::5740488460691693348::1713540523::1718984820::1::::<><>::
+h_slidder_grabber_disabled.png::CompressedTexture2D::6119800797153713719::1713540479::1718984820::1::::<><>::
+h_slidder_grabber_hover.png::CompressedTexture2D::6062103158465291116::1713540680::1718984820::1::::<><>::
+nine_path_bg.png::CompressedTexture2D::8949479047690151189::1713538386::1718984820::1::::<><>::
+nine_path_bg_2.png::CompressedTexture2D::6484470655963585877::1713540787::1718984820::1::::<><>::
+nine_path_focus.png::CompressedTexture2D::4607714559369209422::1713539649::1718984820::1::::<><>::
+nine_path_panel.png::CompressedTexture2D::2130466893979856634::1713469895::1718984820::1::::<><>::
+slider_progress.png::CompressedTexture2D::1287715449760916281::1713540554::1718984820::1::::<><>::
+slider_progress_hover.png::CompressedTexture2D::1112379241965955056::1713540558::1718984820::1::::<><>::
+unchecked.png::CompressedTexture2D::602794368333839191::1713541378::1718984820::1::::<><>::
+unchecked_disabled.png::CompressedTexture2D::7874402718445082967::1713541510::1718984820::1::::<><>::
+v_slidder_grabber.png::CompressedTexture2D::5791299126380621125::1713540511::1718984820::1::::<><>::
+v_slidder_grabber_disabled.png::CompressedTexture2D::1448362288287648856::1713540486::1718984820::1::::<><>::
+v_slidder_grabber_hover.png::CompressedTexture2D::7623405092388473975::1713540433::1718984820::1::::<><>::
+::res://art/Temperary/::1718984258
 slime.png::CompressedTexture2D::8462560767078125415::1718979299::1718979299::1::::<><>::
 spr_alex.png::CompressedTexture2D::9181197938192989266::1718979299::1718979299::1::::<><>::
 spr_anna.png::CompressedTexture2D::2931509512091639140::1718979299::1718979299::1::::<><>::
@@ -10,10 +1652,10 @@ spr_ardley.png::CompressedTexture2D::4802136214713472433::1718979299::1718979299
 spr_colt.png::CompressedTexture2D::2428749635836354573::1718979299::1718979299::1::::<><>::
 spr_ester.png::CompressedTexture2D::2733215830304256696::1718979299::1718979299::1::::<><>::
 spr_tom.png::CompressedTexture2D::8249031217785944982::1718979299::1718979299::1::::<><>::
-topDown_baseTiles.png::CompressedTexture2D::3214883409125568751::1718979299::1718979299::1::::<><>::
-::res://Player/::1718979299
-lkh.gd::GDScript::-1::1718979299::0::1::::<>CharacterBody2D<>::
-lkh.tscn::PackedScene::8289406193324205796::1718979299::0::1::::<><>::res://Player/lkh.gd<>uid://d32o8u48tmj3g::::res://art/Temperary/spr_alex.png
+topDown_baseTiles.png::CompressedTexture2D::3214883409125568751::1718984245::1718984258::1::::<><>::
+::res://Player/::1718980774
+lkh.gd::GDScript::-1::1718980774::0::1::::<>CharacterBody2D<>::
+lkh.tscn::PackedScene::8289406193324205796::1718980774::0::1::::<><>::res://Player/lkh.gd<>uid://d32o8u48tmj3g::::res://art/Temperary/spr_alex.png
 Sprite2D.gd::GDScript::-1::1718979299::0::1::::<>Sprite2D<>::
-::res://World/::1718979299
-world.tscn::PackedScene::9100107180603399941::1718979299::0::1::::<><>::uid://dqdpkrdjcr4ku::::res://Player/lkh.tscn
+::res://World/::1718980774
+world.tscn::PackedScene::9100107180603399941::1718980774::0::1::::<><>::uid://dqdpkrdjcr4ku::::res://Player/lkh.tscn
